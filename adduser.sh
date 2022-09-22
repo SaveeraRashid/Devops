@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Edited file adduser for task"
+echo "Edited file adduser for task for devops"
 users=()
 paths=()
 echo "Add users"
